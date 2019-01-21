@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc6b4191-452f-4ebd-b82c-4ecc0c40d959" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/frontapp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontapp/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontapp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontapp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontapp/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontapp/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontapp/src/styles.sass" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/styles.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/laravel-angular-comment-app/bootstrap/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/laravel-angular-comment-app/bootstrap/autoload.php" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/CD_Project/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontapp/src/app/components/cd/cd.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CD_Project/public/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontapp/src/app/components/cd/cd.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontapp/src/app/components/create-dialog/create-dialog.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontapp/src/app/components/create-dialog/create-dialog.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="117" selection-start-line="32" selection-start-column="117" selection-end-line="32" selection-end-column="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontapp" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/frontapp/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/CD_Project/config/app.php" />
+        <option value="$PROJECT_DIR$/CD_Project/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/CD_Project/.env" />
+        <option value="$PROJECT_DIR$/CD_Project/app/Http/Controllers/Controller.php" />
+        <option value="$PROJECT_DIR$/CD_Project/composer.json" />
+        <option value="$PROJECT_DIR$/CD_Project/app/Cd.php" />
+        <option value="$PROJECT_DIR$/frontapp/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/frontapp/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/frontapp/src/index.html" />
+        <option value="$PROJECT_DIR$/frontapp/src/styles.sass" />
+        <option value="$PROJECT_DIR$/frontapp/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/frontapp/src/app/components/create-dialog/create-dialog.component.sass" />
+        <option value="$PROJECT_DIR$/CD_Project/app/Http/Controllers/CdController.php" />
+        <option value="$PROJECT_DIR$/frontapp/src/app/services/cd.service.ts" />
+        <option value="$PROJECT_DIR$/CD_Project/routes/api.php" />
+        <option value="$PROJECT_DIR$/frontapp/src/app/components/create-dialog/create-dialog.component.ts" />
+        <option value="$PROJECT_DIR$/CD_Project/database/migrations/2019_01_17_191015_create_cd_table.php" />
+        <option value="$PROJECT_DIR$/frontapp/src/app/components/create-dialog/create-dialog.component.html" />
+        <option value="$PROJECT_DIR$/frontapp/src/app/components/cd/cd.component.ts" />
+        <option value="$PROJECT_DIR$/frontapp/src/app/components/cd/cd.component.html" />
+        <option value="$PROJECT_DIR$/frontapp/src/app/components/cd/cd.component.sass" />
+        <option value="$PROJECT_DIR$/CD_Project/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/../CD-Project/php/CD_Project/resources/views/welcome.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/composer" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/nexmo/client" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/laravel/nexmo-notification-channel" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/laravel/slack-notification-channel" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/CD_Project/vendor/barryvdh/laravel-cors" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+              <item name="CD_Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+              <item name="CD_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+              <item name="CD_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/frontapp/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc6b4191-452f-4ebd-b82c-4ecc0c40d959" name="Default" comment="" />
+      <created>1547682146115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547682146115</updated>
+      <workItem from="1547682147434" duration="152000" />
+      <workItem from="1547684483911" duration="2260000" />
+      <workItem from="1547717101769" duration="101281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="103693000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/CD_Project/public/frontapp" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CD_Project/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/public/svg/403.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/public/svg/404.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3730" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/config/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#7#389#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/services/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/tslint.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="669" column="9" selection-start-line="669" selection-start-column="9" selection-end-line="669" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="62" column="51" selection-start-line="62" selection-start-column="51" selection-end-line="62" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="163" column="45" selection-start-line="163" selection-start-column="45" selection-end-line="163" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/node_modules/typescript/lib/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12055" column="12" selection-start-line="12055" selection-start-column="12" selection-end-line="12055" selection-end-column="12" />
+          <caret line="12067" column="16" lean-forward="true" selection-start-line="12067" selection-start-column="16" selection-end-line="12067" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="88" lean-forward="true" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/app.component.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/node_modules/@angular/material/typings/esm5/form-field/form-field.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/styles.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/node_modules/@angular/material/dialog/typings/dialog-container.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/components/create-dialog/create-dialog.component.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/node_modules/@angular/material/typings/form-field/form-field.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="90" column="4" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/node_modules/@angular/material/dialog/typings/dialog-config.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/app/Cd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/app/User.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/node_modules/rxjs/src/internal/Observable.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="294" column="2" selection-start-line="294" selection-start-column="2" selection-end-line="294" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/node_modules/@angular/common/http/src/client.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="545" column="4" selection-start-line="545" selection-start-column="4" selection-end-line="545" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/node_modules/@angular/material/dialog/typings/dialog-ref.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="107" column="54" selection-start-line="107" selection-start-column="54" selection-end-line="107" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/app/Http/Controllers/CdController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+          <folding>
+            <element signature="e#6#96#0#PHP" expanded="true" />
+            <element signature="e#130#143#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/services/cd.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="87" selection-start-line="24" selection-start-column="87" selection-end-line="24" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/database/migrations/2019_01_17_191015_create_cd_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/components/create-dialog/create-dialog.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="117" selection-start-line="32" selection-start-column="117" selection-end-line="32" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/components/cd/cd.component.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/components/cd/cd.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/public/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/public/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/bootstrap/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/components/create-dialog/create-dialog.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CD_Project/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CD-Project/php/CD_Project/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/src/app/components/cd/cd.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
