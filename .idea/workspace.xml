@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc6b4191-452f-4ebd-b82c-4ecc0c40d959" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/frontapp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontapp/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontapp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontapp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontapp/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontapp/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontapp/src/styles.sass" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/styles.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontapp" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontapp/frontapp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontapp/test/laravel-angular-comment-app" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/laravel-angular-comment-app" beforeDir="false" afterPath="$PROJECT_DIR$/test/laravel-angular-comment-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/laravel-angular-comment-app/bootstrap/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/laravel-angular-comment-app/bootstrap/autoload.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -44,7 +40,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontapp/src/app/components/cd/cd.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="170">
               <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
               <folding>
                 <element signature="e#0#61#0" expanded="true" />
@@ -231,20 +227,7 @@
             <path>
               <item name="php" type="b2602c69:ProjectViewProjectNode" />
               <item name="php" type="462c0819:PsiDirectoryNode" />
-              <item name="CD_Project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php" type="462c0819:PsiDirectoryNode" />
-              <item name="CD_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php" type="462c0819:PsiDirectoryNode" />
-              <item name="CD_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="frontapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,7 +242,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/frontapp/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -290,12 +273,12 @@
       <updated>1547682146115</updated>
       <workItem from="1547682147434" duration="152000" />
       <workItem from="1547684483911" duration="2260000" />
-      <workItem from="1547717101769" duration="101281000" />
+      <workItem from="1547717101769" duration="102943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103693000" />
+    <option name="totallyTimeSpent" value="105355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -315,7 +298,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -326,18 +309,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/CD_Project/public/frontapp" />
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CD_Project/public/js/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CD_Project/vendor/autoload.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CD_Project/public/svg/403.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -377,9 +380,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/frontapp/src/tslint.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontapp/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CD_Project/config/database.php">
@@ -646,9 +646,25 @@
     <entry file="file://$PROJECT_DIR$/../CD-Project/php/CD_Project/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontapp/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/frontapp/src/app/components/cd/cd.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="170">
           <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
           <folding>
             <element signature="e#0#61#0" expanded="true" />
